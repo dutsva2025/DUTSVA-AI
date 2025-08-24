@@ -4,7 +4,7 @@
 <u>⚡ A simple WhatsApp User Bot Coded By Zuka ⚡</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/0ly0h6.jpg"/>       
+<img src="https://files.fm/u/fkuskr79rc"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•DUTSVA+AI•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+TINASHE+ZUKA;RELEASED+DATE+23%2F08%2F2025." alt="Typing SVG" /></a>
 </p> 
